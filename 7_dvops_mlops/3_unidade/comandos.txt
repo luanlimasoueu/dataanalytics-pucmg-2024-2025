@@ -1,0 +1,10 @@
+conda env list
+
+C:\Users\Luan Lima\Desktop\github\29_pucmg\dataanalytics-pucmg-2024-2025\7_dvops_mlops\3_unidade
+
+
+conda env create -f environment.yml
+
+
+conda activate puc-mlops-ead-environment
+
